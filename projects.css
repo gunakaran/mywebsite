@@ -1,0 +1,120 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.nav {
+    display: flex;
+    height: 50px;
+    width: 100%;
+    justify-content: space-between;
+    background-color: aqua;
+    font-size: 30px;
+}
+.txt{
+    display: flex;
+   font-size: 25px;
+    justify-content: space-between;
+    letter-spacing: 1px;
+}
+.test{
+    display: flex;
+    list-style-type: none;
+   align-items: center;
+   height: 100%;
+   letter-spacing: 2px; 
+}
+.test span{
+    font-size: 17px;
+}
+.se{
+    height: 500px;
+    width: 100%;
+}
+.main{
+    position: absolute;
+    top: 50%;
+    left: calc(50% - 157.88px);
+    font-size: 50px;
+    letter-spacing: 2px;
+    overflow: hidden;
+}.guna h3{
+    position: absolute;
+    padding: 1px;
+    margin: 5px;
+    background: black;
+    color: white;
+    height:40px;
+
+}
+.guna{
+    padding: 5px;
+    margin: 5px;
+    position: relative;
+}
+.guna img{
+    width: 100%;
+    height: 300px;
+    padding: 5px; 
+}
+.fil{
+   margin: 5px;
+   padding: 10px;
+
+}
+.le{
+    width: 100%;
+    height: 70px;
+    padding: 10px;
+    margin: 10px;
+}
+.name{
+    width: 90%;
+    height: 50px;
+}
+.container{
+    padding: 0%;
+    margin: 0%;
+}
+.btn{
+    justify-content: center;
+    align-items: center;
+    text-decoration: solid;
+    display: flex;
+    height: 50px;
+    width: 100%;
+    background-color: aqua;
+    font-size: 30px;
+  
+}
+.by{
+    background-color: rgb(8, 7, 7);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin: 3px;
+    padding: 0px;
+    
+}
+.ho{
+    width: 100%;
+    height: 100vh;
+    margin: 5px;
+    padding: 5px;
+   
+}
+.ho img{
+    width: 100%;
+    height: 800px;
+}
+.h1{
+    height: 100vh;
+    width: 100%;
+}
+.input-wapr{
+    width: 100%;
+    margin: 5px 0px;
+}
